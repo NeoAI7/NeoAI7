@@ -18,7 +18,7 @@
 
 ### 📫 How to reach me:
 - Telegram: [@NeoDev1](https://t.me/NeoDev1)
-- Email: Coming soon…
+- Email: neothedeveloper77@gmail.com 
 - GitHub: [github.com/NeoAI7](https://github.com/NeoAI7)
 
 ### 😄 Pronouns:
