@@ -17,7 +17,7 @@
 - Cool automation or bot projects (e.g., Telegram bots)
 
 ### 📫 How to reach me:
-- Telegram: [@NeoDev1](https://t.me/NeoDev1)
+- Telegram: [@NeoDev2](https://t.me/NeoDev2)
 - Email: neothedeveloper77@gmail.com 
 - GitHub: [github.com/NeoAI7](https://github.com/NeoAI7)
 
